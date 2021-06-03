@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious letter to Dr. John Owen, sent by a small friend of his, relating to the intendments of Wallingford-house; also a short friendly reply to a late pamphlet of his concerning tithes.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29634</idno><idno type="EEBO-CITATION">99886724</idno>
+  <idno type="VID">189149</idno>
+  <idno type="EEBO-PROQUEST">2248538608</idno>
+  
+            <idno type="STC">Wing S2615A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.24[7]</idno>
+            <idno type="STC">ESTC R226489</idno>
+            <idno type="PROQUEST">ocm99886724</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886724e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189149)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C15:2[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious letter to Dr. John Owen, sent by a small friend of his, relating to the intendments of Wallingford-house; also a short friendly reply to a late pamphlet of his concerning tithes.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford? :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Society of Friends --  England --  Early works to 1800.</term>
+               <term type="topical_term">Tithes --  Early works to 1800.</term>
+               <term type="topical_term">Persecution --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters">
+            <pb facs="tcp:189149:1"/>
+            <head>A serious Letter to D<seg rend="sup">r.</seg> John Owen, Sent by a small Friend of his, relating to the intendments of <hi>Wallingford-house;</hi> Also a short friendly reply to a late Pamphlet of his concerning Tithes.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR:</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg>Mmediately upon my arrival at this floating and giddy Island, I thought it incumbent on me to inquire after the Men whose spirits began, and were lead forth to the late revolutions in <hi>England;</hi> After I heard of those barbarous and Apocryphal names, of <hi>Fleetwood,</hi> that man of War; <hi>Lambert,</hi> that aspiring Commander; <hi>Desborough</hi> the Clown, and blinde <hi>Hewson</hi> the Cobier, that accurate and dexterous translator of Government; the two former were represented to me as <hi>English</hi> Gentlemen, and so our Friends in the <hi>Netherlands</hi> imputed their actions to noble and generous designs, hammered on the Anvil of their profound Intellects; where note, that I account <hi>Fleetwood</hi> a grand Polititian, by a Figure the Learned call <hi>Irania,</hi> or if you will <hi>Synedoch,</hi> as Captain <hi>Allen,</hi> or Colonel <hi>Parker</hi> lately had it in one of their University Sermons; but to proceed, what these Rustical Plebeians <hi>Desborough</hi> and <hi>Hewson</hi> proposed to themselves, we admired, never conjecturing that this Meal-man would either Sift out a Government, or this Lord bring his Ends so together as to stitch it up, though a man that ever managed his All very well. From these Peasants I further enquired, what Clergy-men were famous, and notorious in these Usurpers account, presently a Friend of mine nominated Thankful <hi>Owen,</hi> late Ambassadour to <hi>Graves-end,</hi> and your Worship was cried up as high as Tyburn, as well known, and as little trusted; in my Travels Westward they calld you <hi>Quaker,</hi> Northward <hi>Anabaptist,</hi> in <hi>Oxford</hi> a State <hi>Independent,</hi> in <hi>London</hi> a <hi>Jesuite,</hi> beyond Seas a conscience-mender; I can scarce visit a Tavern, or Country Alc<g ref="char:EOLhyphen"/>house, but forth comes some of the Learned Works of <hi>John Owen,</hi> a Servant, &amp;c. as if you were cut out to entertain all sorts of Guests; if I send for Tobacco, your Books are the inclosure of it, and there I finde your name stinking worse than that <hi>Indian</hi> Weed; the Cooks dare not venture it at the bottom of their Pyes, lest it should either spoil their sale, or stick as close to them as you doe to <hi>Wallingford-house.</hi> Sir, I am unwilling (being the first time I ever Epistoliz'd to you) to divert you from your more weighty concernments, <hi>viz.</hi> The upholding of your Deanary at <hi>Christ-Church,</hi> taking sanctuary at <hi>Amsterdam,</hi> should the Saints Kingdom be over-thrown, or Dominion expire; If you ask, why I make so bold with you, as to inform you, how odious you are to all persons, who cannot so fordidly comply with every Government, pray and preach to every Faction, side with all Innovators; how you are by all serious men thought the scorn of Religion, a man either of a very wide or seared Conscience, this and much more I could tell you, but I presume you know them sufficiently: The slender acquaintance I have with you, and those small obligations, your deceitful promises, and contradictory practices to piety and honesty have imposed on me, may equally plead for my saying thus much, and no more</p>
+               <closer>
+                  <signed>Yours.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>SIR:</salute>
+               </opener>
+               <p>SInce the writing of this, there is come to my hand a short reply to a Paper of yours, about Magistracy and Tithes, the man claims acquaintance and familiarity with you, being a Gifted Brother, and <hi>Quaker,</hi> as I guess by his style.</p>
+               <p>Brother <hi>John Owen,</hi> I have a Message to thee, let not thy carnal mind cheat thee; Is Magistracy an Ordinance of God? then ei<g ref="char:EOLhyphen"/>ther in <hi>Capite,</hi> or <hi>Corpore,</hi> in a single Person, or Parliament, but in neither of these, <hi>ergo.</hi>
+               </p>
+               <p n="1">1 Does not the light within thee witness to thy wrinckled face, that thou <hi>John Owen</hi> wast instrumental, and by thy close jugling with a gathered Brood in <hi>Wallingford-house,</hi> didst countenance, promote, vigorously act to the downfall of timerous <hi>Richard,</hi> and dis<g ref="char:EOLhyphen"/>solution of that famous Parliament?</p>
+               <p n="2">2 As for Parliaments, didst not thou preach up, and down the Rump? After its resurrection thou calledst them dry Bones brea<g ref="char:EOLhyphen"/>thed into, and in a short time with <hi>Lambert, Desborough,</hi> &amp;c. help rebury them, and preach their second Funeral Sermons.</p>
+               <p n="1">1 Are Tithes due to those the world calls Ministers, and Parsons? then why did Christ rebuke those that Tithed Mint, Annis, and Cummin? and if these are forbidden, then sure greater matters.</p>
+               <p n="2">2 Tithes is an Old Testament word, and (as a Sadler in <hi>Oxford</hi> said of Christmas) then it was abolisht at Christs coming.</p>
+               <p n="3">3 The Tithes in <hi>Malachies</hi> Prophecy were commanded to be carried into Gods Store-house, <hi>ergo</hi> not the Parsons Barn.</p>
+               <p n="4">4 Suppose I have nine Hens, and they drop from their rumps but nine Eggs a year, ile not give a turd for the Parsons tenth.</p>
+               <p>When you have answered these Arguments, ile peruse your Book, and i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there be any thing worthy a farther reply, you shall have it, with that sweetness and gravity as becomes your Person and cause.</p>
+               <closer>
+                  <salute>Vale.</salute>
+                  <signed>Tho. Truthsbye a Gifted Brother.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books lately printed.</head>
+            <p>DOctor <hi>Owens</hi> Book against <hi>Beedle.</hi> 4<seg rend="sup">o</seg>
+            </p>
+            <p>A picus Tract against the Lords Prayer, which hath much convinced <hi>Oxford</hi> Schollars of the unlawfulness of its use. 4<seg rend="sup">o</seg>
+            </p>
+            <p>Saints perseverance. <hi>fol.</hi>
+            </p>
+            <p>Sermons preached at the opening and shutting of the Parliament, and <hi>Wallingford-house.</hi>
+            </p>
+            <p>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elaborate Primmer, with Sir <hi>Pointers</hi> observations in 18<seg rend="sup">o</seg>. by the same Doctor.</p>
+            <p>A Letter also which he sent to the Lord <hi>Monk,</hi> and <hi>Monks</hi> answer, not yet printed.</p>
+            <p>All sold by <hi>Tho. Robinson</hi> Book-seller in <hi>Oxford.</hi>
+            </p>
+            <p>A Hue and Cry after Doctor <hi>Owen,</hi> by <hi>Charls Fleet<g ref="char:EOLhyphen"/>wood</hi>
+               <abbr>Esq;</abbr> now in great distress for the loss of his Con<g ref="char:EOLhyphen"/>science, Generals place, and <hi>quondam</hi> comforter.</p>
+            <p>A new Act, enjoyning Dr. <hi>Owen</hi> to undertake to teach the confined Officers his Primmer, that so they may, when occasion serves, be allowed the benefit of the Clergy.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
